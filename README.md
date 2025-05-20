@@ -1,70 +1,69 @@
-##  Olá! Bem-vindo ao meu perfil no GitHub
-
-Sou estudante de **Redes de Computadores** na Escola SENAI de Informática e atuo como **Analista de Segurança** no Mentore Bank. Tenho grande interesse por **cibersegurança** e **cloud computing**.
-
----
-
-###  Sobre mim
--  Estudante de Redes de Computadores (SENAI)
--  Analista de Segurança da Informação no Mentore Bank
--  Entusiasta de tecnologias em nuvem, automação e segurança digital
--  Em constante aprendizado e evolução na área de TI
+<h1 align="center">👋 Olá! Eu sou Pedro Padovan</h1>
+<h3 align="center">Estudante de Redes de Computadores | Analista de Segurança | Apaixonado por Tecnologia</h3>
 
 ---
 
-###  Certificações
+## 🧑‍💻 Sobre mim
 
-####  **Amazon Web Services (AWS)**
-- AWS Academy Cloud Foundations (2025)
-- AWS Educate Introduction to Generative AI (2025)
-
-####  **Cisco**
-- CCNA: Introduction to Networks (2024)
-- CCNA: Switching, Routing, and Wireless Essentials (2025)
-- CCNA: Enterprise Networking, Security, and Automation (2025)
-- Ethical Hacker (2025)
-- Introduction to Cybersecurity (2025)
-
-####  **Google Cloud / SENAI**
-- Fundamentos de Ciência de Dados - Google Cloud (2025)
-- Introduction to Data Analytics on Google Cloud (2024)
-- Analyzing and Visualizing Data in Looker (2024)
-- Building No-Code Apps with AppSheet (2024)
-
-####  **Axur**
-- Fundamentos da Plataforma Axur
-- Conecte a Axur a outras ferramentas
-- Introdução à proteção contra riscos digitais no varejo
-- Otimize o gerenciamento de riscos digitais
-- Responda às ameaças de forma eficaz
-
-####  **Outros (SENAI)**
-- Privacidade e Proteção de Dados (LGPD)
-- Por dentro da Segurança Cibernética
-- Desvendando o 5G
-- Desvendando a Descarbonização
-- Ética na Inteligência Artificial
+🎓 Estudante de **Redes de Computadores** na **Escola SENAI de Informática**  
+🔐 **Analista de Segurança** no **Mentore Bank**  
+📍 Focado em **cibersegurança**, **cloud computing** e **análise de dados**  
+📚 Sempre em busca de **novos conhecimentos** e **certificações técnicas**
 
 ---
 
-###  Tecnologias e Ferramentas
-- Redes: Cisco Packet Tracer, Wireshark
-- Cloud: AWS, Google Cloud
-- Segurança: Ferramentas de Pentest, SIEM, Análise de Riscos
-- Dados: SQL, Looker, Google Data Studio
+## 📜 Certificações
+
+### 🌩️ **Amazon Web Services (AWS)**
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-orange?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Generative%20AI-orange?logo=amazonaws&logoColor=white)
+
+### 📡 **Cisco Networking Academy**
+![Cisco](https://img.shields.io/badge/CCNA-Intro%20to%20Networks-blue?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/CCNA-Routing%20%26%20Switching-blue?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/CCNA-Enterprise%20Networking-blue?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Ethical%20Hacker-blue?logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cybersecurity%20Intro-blue?logo=cisco&logoColor=white)
+
+### ☁️ **Google Cloud & SENAI**
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-Data%20Analytics-blue?logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-No%20Code%20Apps-lightgrey?logo=googlecloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-Data%20Visualization-blueviolet?logo=looker&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Ciência%20de%20Dados-red?logo=googlecloud&logoColor=white)
+
+### 🛡️ **Axur**
+![Axur](https://img.shields.io/badge/Axur-Plataforma-lightgrey)
+![Axur](https://img.shields.io/badge/Axur-Riscos%20Digitais-lightgrey)
+![Axur](https://img.shields.io/badge/Axur-Respostas%20a%20Ameaças-lightgrey)
 
 ---
 
-###  Como me encontrar
-- 💼 [LinkedIn]https://www.linkedin.com/in/pedro-padovan-de-lima/
-- ✉️ E-mail: padovanpedro31@gmail.com
+## 🛠️ Ferramentas & Tecnologias
+
+| 💡 Redes e Segurança        | ☁️ Cloud Computing         | 📊 Dados e Visualização         |
+|----------------------------|----------------------------|---------------------------------|
+| `Cisco Packet Tracer`      | `AWS`                      | `Looker`                        |
+| `Wireshark`                | `Google Cloud Platform`    | `Google Data Studio`            |
+| `Firewall / IDS / IPS`     | `AppSheet (No-Code)`       | `SQL`                           |
+|       |                            |                                 |
 
 ---
 
-###  Curiosidades
-- Sempre aberto a aprender algo novo e colaborar em projetos de cibersegurança.
-- Acredito no poder da educação contínua e na troca de conhecimento.
+## 📫 Contato
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-padovan-de-lima/)
+- 📧 padovanpedro31@gmail.com
 
 ---
 
-*Obrigado por visitar! 👨‍💻 Vamos construir juntos um mundo digital mais seguro.*
+## ⚡ Curiosidades
+
+- 👾 Gosto de estudar sobre ataques cibernéticos reais e como preveni-los  
+- 🔍 Já explorei áreas como **LGPD**, **descarbonização**, e **ética em IA**  
+- 🤝 Aberto a projetos colaborativos e desafios técnicos  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropadovan&layout=compact&theme=radical" alt="Top Langs" />
+</p>
