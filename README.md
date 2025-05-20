@@ -38,17 +38,6 @@
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
-
-| 💡 Redes e Segurança        | ☁️ Cloud Computing         | 📊 Dados e Visualização         |
-|----------------------------|----------------------------|---------------------------------|
-| `Cisco Packet Tracer`      | `AWS`                      | `Looker`                        |
-| `Wireshark`                | `Google Cloud Platform`    | `Google Data Studio`            |
-| `Firewall / IDS / IPS`     | `AppSheet (No-Code)`       | `SQL`                           |
-|       |                            |                                 |
-
----
-
 ## 📫 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-padovan-de-lima/)
@@ -63,7 +52,3 @@
 - 🤝 Aberto a projetos colaborativos e desafios técnicos  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropadovan&layout=compact&theme=radical" alt="Top Langs" />
-</p>
