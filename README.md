@@ -25,7 +25,7 @@
 - 🔵 [Introduction to Cybersecurity *(fev/2025)*](https://www.credly.com/badges/76826b83-c5b8-4133-b8d0-9f51b7ce708d/linked_in_profile)  
 - 🔵 [Ethical Hacker *(fev/2025)*](https://www.credly.com/badges/fbe38033-5740-4343-a7f3-bfca3903e2c5/linked_in_profile)
 
-### <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" height="24"/>
+### <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" height="24"/> **Google Cloud**
 - ☁️ [Introduction to Data Analytics on Google Cloud *(nov/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13074823)  
 - ☁️ [Analyzing and Visualizing Data in Looker *(nov/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13075948)  
 - ☁️ [Building No-Code Apps with AppSheet *(dez/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13162996)  
