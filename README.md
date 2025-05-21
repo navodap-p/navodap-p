@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou Pedro Padovan</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Pedro%20Padovan&section=header&reversal=false">
+</h1>
 <h3 align="center">Estudante de Redes de Computadores | Analista de Segurança | Apaixonado por Tecnologia</h3>
 
 ---
