@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=008080&text=Pedro%20Padovan&section=header&reversal=false&fontColor=ffffff&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=50">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=2F4F4F&text=Pedro%20Padovan&section=header&reversal=false&fontColor=ffff&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=50">
 </h1>
-<h3 align="center">Estudante de Redes de Computadores | Analista de Segurança | Apaixonado por Tecnologia</h3>
+
+<p aling="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2CF761&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Redes+de+Computadores++%7C++SENAI">
+</p>
 
 ---
 
