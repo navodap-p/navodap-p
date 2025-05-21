@@ -8,12 +8,13 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
-🎓 Estudante de **Redes de Computadores** na **Escola SENAI de Informática**  
-🔐 **Analista de Segurança** no **Mentore Bank**  
-📍 Focado em **cibersegurança**, **cloud computing** e **análise de dados**  
-📚 Sempre em busca de **novos conhecimentos** e **certificações técnicas**
+<img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/06/05/16/11/16-11-29-175_512.gif">
+
+Tenho 23 anos e uma paixão crescente pela área de Segurança da Informação e Redes de Computadores, atuo como Analista de Segurança, onde aplico meus conhecimentos para garantir a proteção e integridade dos sistemas e dados da organização. Paralelamente, estou cursando o Técnico em Redes de Computadores no SENAI, onde tenho aprofundado meus conhecimentos em administração de redes, segurança da informação, infraestrutura de redes, protocolos de comunicação, configuração de roteadores e switches, além de noções de virtualização e cloud computing.
+
+Estou comprometido em construir uma carreira sólida na área de TI, com foco em segurança da informação e redes, e estou aberto a desafios que me permitam crescer profissionalmente e contribuir para a inovação e segurança tecnológica.
 
 ---
 
