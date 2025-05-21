@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Pedro%20Padovan&section=header&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=008080&text=Pedro%20Padovan&section=header&reversal=false&fontColor=ffffff&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=50">
 </h1>
 <h3 align="center">Estudante de Redes de Computadores | Analista de Segurança | Apaixonado por Tecnologia</h3>
 
