@@ -25,16 +25,14 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 ## 📜 Certificações
 
 
-### ☁️ Amazon Web Services (AWS)
-<img src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" alt="AWS Logo" height="24"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS Logo" height="24"/>
 
 - 🟠 [AWS Academy Graduate – Cloud Foundations *(mar/2025)*](https://www.credly.com/badges/bc33a9b8-3b3c-49ff-ac22-a25598713aff/linked_in_profile)  
 - 🟠 [AWS Educate – Introduction to Generative AI *(mar/2025)*](https://www.credly.com/badges/7ba666f3-3546-41a8-81c6-ebbe30696849/linked_in_profile)
 
 ---
 
-### 🌐 Cisco Networking Academy
-<img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="Cisco Logo" height="24"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco Logo" height="24"/>
 
 - 🔵 [CCNA: Introduction to Networks *(jun/2024)*](https://www.credly.com/badges/1d600de4-ba98-4bad-af38-6941964770a6/linked_in_profile)  
 - 🔵 [CCNA: Switching, Routing, and Wireless Essentials *(fev/2025)*](https://www.credly.com/badges/2c0e295d-b78c-4542-8c82-9f1fd3fb27d7/linked_in_profile)  
@@ -44,8 +42,7 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
-### ☁️ Google Cloud
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" height="24"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="Google Cloud Logo" height="24"/>
 
 - ☁️ [Introduction to Data Analytics on Google Cloud *(nov/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13074823)  
 - ☁️ [Analyzing and Visualizing Data in Looker *(nov/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13075948)  
@@ -54,8 +51,7 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
-### 🛡️ Axur University
-<img src="https://digitalks.com.br/wp-content/uploads/2018/11/Ativo-3.png" alt="Axur Logo" height="24"/>
+<img src="https://mlxoiodrayjq.i.optimole.com/cb:CjXf.189e3/w:auto/h:auto/q:mauto/f:best/https://blueprintt.co/wp-content/uploads/2022/08/LOGO_1-1.png" alt="Axur Logo" height="24"/>
 
 - 🛡️ [Fundamentos da Plataforma Axur *(nov/2024)*](https://university.axur.com/certificates/gnzovy0m7g)  
 - 🛡️ [Introdução à Proteção Contra Riscos Digitais no Varejo *(nov/2024)*](https://university.axur.com/certificates/btbcs6mdth)  
@@ -65,7 +61,7 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
-### 🏫 SENAI-SP
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="SENAI Logo" height="24"/>
 
 - 🔐 [Por Dentro da Segurança Cibernética *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033055/7536994)  
