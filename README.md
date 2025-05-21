@@ -14,7 +14,7 @@
 
 ## 📜 Certificações
 
-### <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" height="24"/> **Amazon Web Services (AWS)**
+### <img src="https://ecrie70.com.br/sistema/conteudos/imagem/g_66_0_1_11092024154035.jpg" alt="AWS Logo" height="24"/> **Amazon Web Services (AWS)**
 - 🟧 [AWS Academy Graduate – Cloud Foundations *(mar/2025)*](https://www.credly.com/badges/bc33a9b8-3b3c-49ff-ac22-a25598713aff/linked_in_profile)  
 - 🟧 [AWS Educate – Introduction to Generative AI *(mar/2025)*](https://www.credly.com/badges/7ba666f3-3546-41a8-81c6-ebbe30696849/linked_in_profile)
 
@@ -38,7 +38,7 @@
 - 🛡️ [Responda às Ameaças de Forma Eficaz *(fev/2025)*](https://university.axur.com/certificates/upymuno77s)  
 - 🛡️ [Conecte a Axur a Outras Ferramentas *(fev/2025)*](https://university.axur.com/certificates/aqzdoyspg8)
 
-###<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="SENAI Logo" height="24"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="SENAI Logo" height="24"/> 
 - 🔐 [Por Dentro da Segurança Cibernética *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033055/7536994)  
 - ⚖️ [Ética na Inteligência Artificial *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033058/7536994)  
 - 🌱 [Desvendando a Descarbonização *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033056/7536994)  
