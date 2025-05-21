@@ -32,13 +32,31 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco Logo" height="24"/>
 
-- 🔵 [CCNA: Introduction to Networks *(jun/2024)*](https://www.credly.com/badges/1d600de4-ba98-4bad-af38-6941964770a6/linked_in_profile)  
-- 🔵 [CCNA: Switching, Routing, and Wireless Essentials *(fev/2025)*](https://www.credly.com/badges/2c0e295d-b78c-4542-8c82-9f1fd3fb27d7/linked_in_profile)  
-- 🔵 [CCNA: Enterprise Networking, Security, and Automation *(fev/2025)*](https://www.credly.com/badges/c82eb584-9b7d-449d-87aa-a4b79ce3c855/linked_in_profile)  
-- 🔵 [Introduction to Cybersecurity *(fev/2025)*](https://www.credly.com/badges/76826b83-c5b8-4133-b8d0-9f51b7ce708d/linked_in_profile)  
-- 🔵 [Ethical Hacker *(fev/2025)*](https://www.credly.com/badges/fbe38033-5740-4343-a7f3-bfca3903e2c5/linked_in_profile)
+<p align="left">
+  <a href="https://www.credly.com/badges/1d600de4-ba98-4bad-af38-6941964770a6/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" height="120"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/2c0e295d-b78c-4542-8c82-9f1fd3fb27d7/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: Switching, Routing, and Wireless Essentials" height="120"/>
+  </a>
+    
+  <a href="https://www.credly.com/badges/c82eb584-9b7d-449d-87aa-a4b79ce3c855/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: Enterprise Networking, Security, and Automation" height="120"/>
+  </a>
+    
+  <a href="https://www.credly.com/badges/76826b83-c5b8-4133-b8d0-9f51b7ce708d/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" height="120"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/fbe38033-5740-4343-a7f3-bfca3903e2c5/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" height="120"/>
+  </a>
+</p>
+
 
 ---
 
