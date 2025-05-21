@@ -38,7 +38,7 @@
 - 🛡️ [Responda às Ameaças de Forma Eficaz *(fev/2025)*](https://university.axur.com/certificates/upymuno77s)  
 - 🛡️ [Conecte a Axur a Outras Ferramentas *(fev/2025)*](https://university.axur.com/certificates/aqzdoyspg8)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="SENAI Logo" height="24"/> 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="SENAI Logo" height="24"/> 
 - 🔐 [Por Dentro da Segurança Cibernética *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033055/7536994)  
 - ⚖️ [Ética na Inteligência Artificial *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033058/7536994)  
 - 🌱 [Desvendando a Descarbonização *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033056/7536994)  
