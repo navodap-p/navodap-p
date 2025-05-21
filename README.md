@@ -15,7 +15,7 @@
 ## 📜 Certificações
 
 ### <img src="https://ecrie70.com.br/sistema/conteudos/imagem/g_66_0_1_11092024154035.jpg" alt="AWS Logo" height="24"/> **Amazon Web Services (AWS)**
--  [<img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate – Cloud Foundations" height="48"/>](https://www.credly.com/badges/bc33a9b8-3b3c-49ff-ac22-a25598713aff/linked_in_profile) AWS Academy Graduate – Cloud Foundations *(mar/2025)*  
+-  [<img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate – Cloud Foundations" height="48"/>] AWS Academy Graduate – Cloud Foundations *(mar/2025)*.(https://www.credly.com/badges/bc33a9b8-3b3c-49ff-ac22-a25598713aff/linked_in_profile)
 -  [<img src="https://images.credly.com/size/680x680/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="AWS Educate – Introduction to Generative AI" height="48"/>](https://www.credly.com/badges/7ba666f3-3546-41a8-81c6-ebbe30696849/linked_in_profile) AWS Educate – Introduction to Generative AI *(mar/2025)*
 
 
