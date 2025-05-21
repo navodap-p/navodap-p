@@ -8,9 +8,11 @@
 
 ---
 
+<br>
+
 ##  Sobre mim
 
-<img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/06/05/16/11/16-11-29-175_512.gif">
+<img align="right" height="190" src="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif">
 
 Tenho 23 anos e uma paixão crescente pela área de Segurança da Informação e Redes de Computadores, atuo como Analista de Segurança, onde aplico meus conhecimentos para garantir a proteção e integridade dos sistemas e dados da organização. Paralelamente, estou cursando o Técnico em Redes de Computadores no SENAI, onde tenho aprofundado meus conhecimentos em administração de redes, segurança da informação, infraestrutura de redes, protocolos de comunicação, configuração de roteadores e switches, além de noções de virtualização e cloud computing.
 
@@ -18,10 +20,13 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
+<br>
+
 ## 📜 Certificações
 
+
 ### ☁️ Amazon Web Services (AWS)
-<img src="https://ecrie70.com.br/sistema/conteudos/imagem/g_66_0_1_11092024154035.jpg" alt="AWS Logo" height="24"/>
+<img src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" alt="AWS Logo" height="24"/>
 
 - 🟠 [AWS Academy Graduate – Cloud Foundations *(mar/2025)*](https://www.credly.com/badges/bc33a9b8-3b3c-49ff-ac22-a25598713aff/linked_in_profile)  
 - 🟠 [AWS Educate – Introduction to Generative AI *(mar/2025)*](https://www.credly.com/badges/7ba666f3-3546-41a8-81c6-ebbe30696849/linked_in_profile)
