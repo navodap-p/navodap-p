@@ -31,14 +31,14 @@
 - ☁️ [Building No-Code Apps with AppSheet *(dez/2024)*](https://www.cloudskillsboost.google/public_profiles/bf385a32-b4f2-4d40-ba3d-80a35efdb5ec/badges/13162996)  
 - ☁️ [Fundamentos de Ciência de Dados – Google Cloud *(jan/2025)*](http://www.sp.senai.br/consulta-certificado?qrcode=13424247372/14896133)
 
-### <img src="assets/axur.png" alt="Axur Logo" height="24"/> **Axur**
+### <img src="https://raw.githubusercontent.com/padovanpedro/assets/main/axur-logo-dark.png" alt="Axur Logo" height="24"/> **Axur**
 - 🛡️ [Fundamentos da Plataforma Axur *(nov/2024)*](https://university.axur.com/certificates/gnzovy0m7g)  
 - 🛡️ [Introdução à Proteção Contra Riscos Digitais no Varejo *(nov/2024)*](https://university.axur.com/certificates/btbcs6mdth)  
 - 🛡️ [Otimize o Gerenciamento de Riscos Digitais *(nov/2024)*](https://university.axur.com/certificates/txz2o6grpi)  
 - 🛡️ [Responda às Ameaças de Forma Eficaz *(fev/2025)*](https://university.axur.com/certificates/upymuno77s)  
 - 🛡️ [Conecte a Axur a Outras Ferramentas *(fev/2025)*](https://university.axur.com/certificates/aqzdoyspg8)
 
-### <img src="assets/senai.png" alt="SENAI Logo" height="24"/> **Outros Cursos SENAI**
+### <img src="https://raw.githubusercontent.com/padovanpedro/assets/main/senai-logo.png" alt="SENAI Logo" height="24"/> **Outros Cursos SENAI**
 - 🔐 [Por Dentro da Segurança Cibernética *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033055/7536994)  
 - ⚖️ [Ética na Inteligência Artificial *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033058/7536994)  
 - 🌱 [Desvendando a Descarbonização *(nov/2024)*](https://www.sp.senai.br/consulta-certificado?qrcode=00033056/7536994)  
@@ -51,3 +51,11 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-padovan-de-lima/)
 - 📧 padovanpedro31@gmail.com
+
+---
+
+## ⚡ Curiosidades
+
+- 👾 Gosto de estudar sobre ataques cibernéticos reais e como preveni-los  
+- 🔍 Já explorei áreas como **LGPD**, **descarbonização**, e **ética em IA**  
+- 🤝 Aberto a projetos colaborativos e desafios técnicos
