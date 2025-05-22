@@ -121,6 +121,7 @@ Stack & Ferramentas
     <img src="https://cdn.filestackcontent.com/pIcCDsWJSrmzCPxMSIw8?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODEwLCJwYXRoIjoiLyJ9&signature=c6cf63f8d207063d5f7e96193e6a48b60881584c3f945cb474033a14b4fc8636" height="120"/>
   </a>
 </p>
+
 ---
 
 
