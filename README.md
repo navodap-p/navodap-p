@@ -19,8 +19,22 @@ Tenho 23 anos e uma paixão crescente pela área de Segurança da Informação e
 Estou comprometido em construir uma carreira sólida na área de TI, com foco em segurança da informação e redes, e estou aberto a desafios que me permitam crescer profissionalmente e contribuir para a inovação e segurança tecnológica.
 
 ---
+<p align="center">
+Stack & Ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,windows,grafana">
 <br>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff">
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+  
+</p>
 
 ## 📜 Certificações
 
@@ -40,7 +54,6 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 ---
 
 
-### 🌐 Cisco Networking Academy
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco Logo" height="24"/>
 
 <p align="left">
@@ -65,7 +78,6 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 ---
 
-### ☁️ Google Cloud  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="Google Cloud Logo" height="24"/>
 
 <p align="left">
@@ -92,12 +104,23 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 
 <img src="https://mlxoiodrayjq.i.optimole.com/cb:CjXf.189e3/w:auto/h:auto/q:mauto/f:best/https://blueprintt.co/wp-content/uploads/2022/08/LOGO_1-1.png" alt="Axur Logo" height="24"/>
 
-- 🛡️ [Fundamentos da Plataforma Axur *(nov/2024)*](https://university.axur.com/certificates/gnzovy0m7g)  
-- 🛡️ [Introdução à Proteção Contra Riscos Digitais no Varejo *(nov/2024)*](https://university.axur.com/certificates/btbcs6mdth)  
-- 🛡️ [Otimize o Gerenciamento de Riscos Digitais *(nov/2024)*](https://university.axur.com/certificates/txz2o6grpi)  
-- 🛡️ [Responda às Ameaças de Forma Eficaz *(fev/2025)*](https://university.axur.com/certificates/upymuno77s)  
-- 🛡️ [Conecte a Axur a Outras Ferramentas *(fev/2025)*](https://university.axur.com/certificates/aqzdoyspg8)
-
+<p align="left">
+  <a href="https://university.axur.com/certificates/tx6grpiz2o" target="_blank">
+    <img src="https://cdn.filestackcontent.com/rTjcboIvQ8eSnXkHbccy?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODAyLCJwYXRoIjoiLyJ9&signature=1021a233bc28d2d43c8420ecd82f7d978f899fd5253accca688eca325441df44"  height="120"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://university.axur.com/certificates/btbcs6mdth" target="_blank">
+    <img src="https://cdn.filestackcontent.com/ClXhzTiWQuapLe6gC2WS?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODAzLCJwYXRoIjoiLyJ9&signature=bebab561c7cf20075cfae686b557459842c920d2e3bf4c2cbc23bb9387873fe1" height="120"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://university.axur.com/certificates/gnzovy0m7g" target="_blank">
+    <img src="https://cdn.filestackcontent.com/tkcnDWpRR2aDzDpdmef5?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODA1LCJwYXRoIjoiLyJ9&signature=027e8e882954b916b5f4fdcac87c744277373e067cd86f7d8f72df90162fd12b" height="120"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://university.axur.com/certificates/upymuno77s" target="_blank">
+    <img src="https://cdn.filestackcontent.com/2jHsE6ORQufqnrdN1M6v?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODA4LCJwYXRoIjoiLyJ9&signature=238400f1d9755c3749cf34ab0a978dee650436665485e9e9b22b380d0166f551" height="120"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://university.axur.com/certificates/aqzdoyspg8" target="_blank">
+    <img src="https://cdn.filestackcontent.com/pIcCDsWJSrmzCPxMSIw8?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODEwLCJwYXRoIjoiLyJ9&signature=c6cf63f8d207063d5f7e96193e6a48b60881584c3f945cb474033a14b4fc8636" height="120"/>
+  </a>
+</p>
 ---
 
 
@@ -120,7 +143,7 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 <p align="left">
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/pedro-padovan-de-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Gmail Button -->
