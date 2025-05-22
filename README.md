@@ -33,10 +33,10 @@ Stack & Ferramentas
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
-  
 </p>
 
-## 📜 Certificações
+
+## 🥇 Certificações
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS Logo" height="24"/>
