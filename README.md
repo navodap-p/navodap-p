@@ -16,7 +16,7 @@
 
 Tenho 23 anos e uma paixão crescente pela área de Segurança da Informação e Redes de Computadores, atuo como Analista de Segurança, onde aplico meus conhecimentos para garantir a proteção e integridade dos sistemas e dados da organização. Paralelamente, estou cursando o Técnico em Redes de Computadores no SENAI, onde tenho aprofundado meus conhecimentos em administração de redes, segurança da informação, infraestrutura de redes, protocolos de comunicação, configuração de roteadores e switches, além de noções de virtualização e cloud computing.
 
-Estou comprometido em construir uma carreira sólida na área de TI, com foco em segurança da informação e redes, e estou aberto a desafios que me permitam crescer profissionalmente e contribuir para a inovação e segurança tecnológica.
+Estou comprometido em construir uma carreira sólida na área de TI, com foco em segurança da informação e redes, e estou disposto a enfrentar desafios que me permitam crescer profissionalmente e contribuir para a inovação e segurança tecnológica.
 
 ---
 <p align="center">
