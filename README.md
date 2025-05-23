@@ -104,23 +104,11 @@ Stack & Ferramentas
 
 <img src="https://mlxoiodrayjq.i.optimole.com/cb:CjXf.189e3/w:auto/h:auto/q:mauto/f:best/https://blueprintt.co/wp-content/uploads/2022/08/LOGO_1-1.png" alt="Axur Logo" height="24"/>
 
-<p align="left">
-  <a href="https://university.axur.com/certificates/tx6grpiz2o" target="_blank">
-    <img src="https://cdn.filestackcontent.com/rTjcboIvQ8eSnXkHbccy?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODAyLCJwYXRoIjoiLyJ9&signature=1021a233bc28d2d43c8420ecd82f7d978f899fd5253accca688eca325441df44"  height="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://university.axur.com/certificates/btbcs6mdth" target="_blank">
-    <img src="https://cdn.filestackcontent.com/ClXhzTiWQuapLe6gC2WS?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODAzLCJwYXRoIjoiLyJ9&signature=bebab561c7cf20075cfae686b557459842c920d2e3bf4c2cbc23bb9387873fe1" height="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://university.axur.com/certificates/gnzovy0m7g" target="_blank">
-    <img src="https://cdn.filestackcontent.com/tkcnDWpRR2aDzDpdmef5?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODA1LCJwYXRoIjoiLyJ9&signature=027e8e882954b916b5f4fdcac87c744277373e067cd86f7d8f72df90162fd12b" height="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://university.axur.com/certificates/upymuno77s" target="_blank">
-    <img src="https://cdn.filestackcontent.com/2jHsE6ORQufqnrdN1M6v?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODA4LCJwYXRoIjoiLyJ9&signature=238400f1d9755c3749cf34ab0a978dee650436665485e9e9b22b380d0166f551" height="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://university.axur.com/certificates/aqzdoyspg8" target="_blank">
-    <img src="https://cdn.filestackcontent.com/pIcCDsWJSrmzCPxMSIw8?policy=eyJjYWxsIjpbInJlYWQiXSwiZXhwaXJ5IjoxNzQ3OTE2ODEwLCJwYXRoIjoiLyJ9&signature=c6cf63f8d207063d5f7e96193e6a48b60881584c3f945cb474033a14b4fc8636" height="120"/>
-  </a>
-</p>
+- 🛡️ [Fundamentos da Plataforma Axur *(nov/2024)*](https://university.axur.com/certificates/gnzovy0m7g)  
+- 🛡️ [Introdução à Proteção Contra Riscos Digitais no Varejo *(nov/2024)*](https://university.axur.com/certificates/btbcs6mdth)  
+- 🛡️ [Otimize o Gerenciamento de Riscos Digitais *(nov/2024)*](https://university.axur.com/certificates/tx6grpiz2o)  
+- 🛡️ [Responda às Ameaças de Forma Eficaz *(fev/2025)*](https://university.axur.com/certificates/upymuno77s)  
+- 🛡️ [Conecte a Axur a Outras Ferramentas *(fev/2025)*](https://university.axur.com/certificates/aqzdoyspg8)
 
 ---
 
